@@ -1,0 +1,18 @@
+{
+  "name": "membercount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "node start.js debug"
+  },
+  "author": "error2507",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "dblapi.js": "^2.3.0",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "sqlite3": "^4.0.6"
+  }
+}
